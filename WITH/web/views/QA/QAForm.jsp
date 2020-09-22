@@ -22,7 +22,7 @@
 		padding:5px 0 5px 10px;
 		text-align:left;
 	}
-	div#imgWrap{border:1px red solid; width:100px;height:100px;}
+	div#imgWrap{border:1px red solid; width:200px;height:100px;}
 	div
 	input#upfile{margin-bottom:5px;}
 </style>
